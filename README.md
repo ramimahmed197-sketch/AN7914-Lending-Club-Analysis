@@ -13,7 +13,7 @@ credit market using the Lending Club dataset (10,000 loans).
 - Source: Lending Club peer-to-peer lending platform
 
 ## Files
-- `- `AN7914_analysis_final.py` — Main Python analysis script
+- `- `AN7914_analysi.py` — Main Python analysis script
 
 ## How to Run
 1. Go to https://python-playground.com
